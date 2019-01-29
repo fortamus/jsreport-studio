@@ -10,6 +10,13 @@ module.exports = {
             type: 'boolean',
             default: true
           },
+          usCompression: {
+            type: 'boolean',
+            default: true
+          },
+          distPath: {
+            type: 'string'
+          },
           requestLogEnabled: {
             type: 'boolean',
             default: true
