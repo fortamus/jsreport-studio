@@ -10,7 +10,7 @@ module.exports = {
             type: 'boolean',
             default: true
           },
-          usCompression: {
+          useCompression: {
             type: 'boolean',
             default: true
           },
